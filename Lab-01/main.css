@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+  }
+
+  .center {
+    text-align: center;
+    border: 5px solid red;
+  }
+
+  h1 {
+    color:white;
+    text-align: center;
+  }
+
+  h2 {
+    color:blue;
+    text-align: center;
+  }
+
+  p{
+      color:white;
+  }
